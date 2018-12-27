@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: viettel.SerenityDummy.DefinitionTestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 38.583 sec <<< FAILURE! - in viettel.SerenityDummy.DefinitionTestSuite
+Upload a file(Upload a file)  Time elapsed: 34.493 sec  <<< ERROR!
+net.serenitybdd.core.exceptions.SerenityManagedException: 
+The following error occurred: Expected condition failed: waiting for UploadPage.lblUploadSuccess to be displayed (tried for 5 second(s) with 100 MILLISECONDS interval)
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'DESKTOP-D14S1L5', ip: '192.168.1.122', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: driver.version: unknown
+Caused by: org.openqa.selenium.TimeoutException: 
+Expected condition failed: waiting for UploadPage.lblUploadSuccess to be displayed (tried for 5 second(s) with 100 MILLISECONDS interval)
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'DESKTOP-D14S1L5', ip: '192.168.1.122', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: driver.version: unknown
+

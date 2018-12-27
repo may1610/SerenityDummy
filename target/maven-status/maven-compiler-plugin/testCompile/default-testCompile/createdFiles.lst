@@ -1,0 +1,8 @@
+viettel\SerenityDummy\steps\serenity\UploadSteps.class
+viettel\SerenityDummy\pages\UploadPage.class
+viettel\SerenityDummy\steps\FptShopDefinitionSteps.class
+viettel\SerenityDummy\DefinitionTestSuite.class
+viettel\SerenityDummy\steps\serenity\BuySteps.class
+viettel\SerenityDummy\pages\FptShopHomePage.class
+viettel\SerenityDummy\steps\UploadStepsDefinition.class
+common\Utility.class
